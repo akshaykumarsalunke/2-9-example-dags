@@ -1,4 +1,4 @@
-FROM quay.io/astronomer/astro-runtime:11.3.0-base
+FROM quay.io/astronomer/astro-runtime:11.14.0-base
 
 USER root
 COPY packages.txt packages.txt
